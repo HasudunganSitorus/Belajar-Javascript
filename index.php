@@ -53,7 +53,7 @@ die("Connection failed". $con->connect_error);
 	      <td>@mdo</td>
 	    </tr>
 	    <tr>
-	    	<script src="while.js"></script>
+	    	<script src="js/for.js"></script>
 	  </tbody>
 	</table>
 </html>
